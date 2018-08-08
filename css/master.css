@@ -1,0 +1,21 @@
+body {
+    
+    
+    font-family: Arial, Helvetica, Sans-serif;
+    color: black;
+    background-color: white;
+text-align: justify;  
+
+margin: 0;
+}
+border {
+
+background: url(../Images/Fondo.jpg);
+background-position-x: center; 
+}
+div{
+    background: blue;
+    width: 300px;
+    height: 1000px;
+    border: 8px dotted;
+}
